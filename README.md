@@ -1,4 +1,4 @@
-# employee-attrition-analysis-
+# employee-attrition-analysis-[my_first_project]
 Excel-based HR Analytics project on employee attrition 
 # Employee Attrition Analysis Using Excel 📊
 
